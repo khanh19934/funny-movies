@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContentLoader Component snapshots ContentLoader snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    aria-label="Loading interface..."
+    preserveAspectRatio="none"
+    role="img"
+    viewBox="0 0 600 200"
+  >
+    <title>
+      Loading interface...
+    </title>
+    <rect
+      clip-path="url(#5sh8tnodjat)"
+      height="200"
+      style="fill: url(#qf6q3uievp);"
+      width="600"
+      x="0"
+      y="0"
+    />
+    <defs>
+      <clippath
+        id="5sh8tnodjat"
+      >
+        <rect
+          height="160"
+          rx="0"
+          ry="0"
+          width="190"
+          x="13"
+          y="17"
+        />
+        <rect
+          height="19"
+          rx="0"
+          ry="0"
+          width="323"
+          x="226"
+          y="18"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="319"
+          x="225"
+          y="48"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="319"
+          x="225"
+          y="87"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="319"
+          x="225"
+          y="66"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="272"
+          x="225"
+          y="110"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="272"
+          x="225"
+          y="130"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="272"
+          x="225"
+          y="151"
+        />
+      </clippath>
+      <lineargradient
+        id="qf6q3uievp"
+      >
+        <stop
+          offset="0%"
+          stop-color="#f3f3f3"
+          stop-opacity="1"
+        >
+          <animate
+            attributeName="offset"
+            dur="4s"
+            keyTimes="0; 0.25; 1"
+            repeatCount="indefinite"
+            values="-2; -2; 1"
+          />
+        </stop>
+        <stop
+          offset="50%"
+          stop-color="#ecebeb"
+          stop-opacity="1"
+        >
+          <animate
+            attributeName="offset"
+            dur="4s"
+            keyTimes="0; 0.25; 1"
+            repeatCount="indefinite"
+            values="-1; -1; 2"
+          />
+        </stop>
+        <stop
+          offset="100%"
+          stop-color="#f3f3f3"
+          stop-opacity="1"
+        >
+          <animate
+            attributeName="offset"
+            dur="4s"
+            keyTimes="0; 0.25; 1"
+            repeatCount="indefinite"
+            values="0; 0; 3"
+          />
+        </stop>
+      </lineargradient>
+    </defs>
+  </svg>
+</DocumentFragment>
+`;

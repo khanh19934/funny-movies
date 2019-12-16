@@ -1,0 +1,41 @@
+.video-item {
+  &__information {
+    max-height: 281px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    &--active {
+      max-height: none;
+      overflow: unset;
+    }
+  }
+
+  .btn-toggle {
+    color:#11111199;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  &__title {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  &__react-section {
+    display: flex;
+  }
+
+  &__icon {
+    display: flex;
+    margin-bottom: 6px;
+    cursor: pointer;
+  .number {
+    color: gray;
+    font-weight: bold;
+    margin-bottom: 2px;
+
+  }
+  }
+
+
+}

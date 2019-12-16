@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AuthenticationForm snapshots should match snapshot 1`] = `
+<DocumentFragment>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="mb-2 mr-sm-2 mb-sm-0 form-group"
+    >
+      <input
+        aria-label="email-input"
+        class="form-control"
+        name="email"
+        placeholder="Email"
+        type="email"
+        value=""
+      />
+    </div>
+    <div
+      class="mb-2 mr-sm-2 mb-sm-0 form-group"
+    >
+      <div
+        style="display: flex; flex-direction: column;"
+      >
+        <input
+          class="form-control"
+          name="password"
+          placeholder="Password"
+          type="password"
+          value=""
+        />
+      </div>
+    </div>
+    <button
+      class="btn btn-secondary"
+      type="button"
+    >
+      Login / Register
+    </button>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`AuthenticationForm snapshots should match snapshot 2`] = `<DocumentFragment />`;
