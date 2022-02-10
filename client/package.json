@@ -23,7 +23,7 @@
     "jest": "^24.9.0",
     "jest-enzyme": "^7.1.2",
     "jest-mock-axios": "^3.2.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "ramda": "^0.26.1",
     "ramda-adjunct": "^2.23.0",
     "react": "^16.12.0",
